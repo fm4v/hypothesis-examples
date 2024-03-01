@@ -1,0 +1,1 @@
+pytest -s -vv --pdb --hypothesis-show-statistics --hypothesis-explain --hypothesis-verbosity=debug test_ch_.py
